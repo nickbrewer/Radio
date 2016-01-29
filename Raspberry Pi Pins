@@ -1,0 +1,29 @@
+Pi Radio Pin Maps
+
+Pin		Function
+1		3.3V
+6		GND
+
+
+Buttons
+26		Next Button
+19		Prev Button
+13 		Pause/Play Button
+21		Bluetooth Active
+20		Aux Active
+
+LCD Screen
+1		VCC
+6		GND
+24		CS (GPIO 8)
+16		Reset (GPIO 23)
+15		D/C (GPIO 22)
+19		SD1(MOSI) (GPIO 10)
+23		SCK (GPIO 11)
+17		LED (3.3V)
+21		SD0(MOS0) (GPIO 9)
+
+3-Pole Switch
+36		RPi (GPIO 16)
+38		Aux (GPIO 20)
+40		Bluetooth (GPIO 21) 
